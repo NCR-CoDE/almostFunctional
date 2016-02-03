@@ -1,6 +1,14 @@
-<h2 class="section-title"><%= @labels['about'] %></h2>
-<p itemprop="description">So you want to organize a conference? That's pretty awesome! But we know that you don't have time to create the website, since you have to worry about contacting sponsors, chossing the right place, buying airplane tickets for speakers and many other things.</p>
+<h2 class="section-title">What is this?</h2>
+<p itemprop="description">An evening of <strong>free</strong> tech talks in Edinburgh.</p>
 
-<p>That's why we created this project! <a href="https://github.com/braziljs/conf-boilerplate">Conf Boilerplate</a> is an iniciative of <a href="http://braziljs.org">BrazilJS Foundation</a> that provides a simple structure built on top of Docpad, a static generator in NodeJS, with all the things you need to create a event. We also provide a responsive template with i18n!</p>
+<h3>Tell me more</h3>
 
-<p>This is just a live demo, check our <a href="https://github.com/braziljs/conf-boilerplate">repository on Github</a> for more details =D</p>
+<p>In case you've missed it the way we write software is changing.</p>
+
+<p>Functional programming and other ideas from academia have swept across our industry and are being absorbed into (or replacing) our tech stacks.</p>
+
+<p>Start ups now run on Erlang and Haskell. Even Java has Lambdas and lazy streams.</p>
+
+<p>For one evening only we&#39;ve brought together some great speakers from industry and academia to talk about new ideas from this wave of change and the ones still to come.</p>
+
+<p>Expect accessible talks on cutting edge ideas. Think StrangeLoop, only free, and shorter, and in Edinburgh.</p>
