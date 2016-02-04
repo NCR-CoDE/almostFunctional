@@ -102,10 +102,10 @@ module.exports = {
         photo: "themes/yellow-swan/img/milesgould.jpg",
         bio: "Miles has bounced between academia and industry, having worked in fields as diverse as satellite communications, tokamak physics, compilers for embedded systems, and higher-dimensional category theory. He is currently working at Red Hat on the open-source cloud-computing platform OpenStack. When not thinking about computers, he likes to spend his time up mountains",
         company: "Red Hat",
-//        link: {
-//          href: "http://homepages.inf.ed.ac.uk/mgould1/",
-//          text: "informatics"
-//        },
+        link: {
+          href: "https://twitter.com/pozorvlak",
+          text: "pozorvlak"
+        },
         presentation: {
           title: "Git: an Epic Victory for Academic Computer Science",
           description: "Programmers all over the world use Git in mission-critical ways, totally unaware of its academic pedigree. Miles will take us through the foundations on which Git is built and ask what other uses we could put them to.",
