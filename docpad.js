@@ -100,7 +100,7 @@ module.exports = {
       {
         name: "Miles Gould",
         photo: "themes/yellow-swan/img/milesgould.jpg",
-        bio: "Miles has bounced between academia and industry, having worked in fields as diverse as satellite communications, tokamak physics, compilers for embedded systems, and higher-dimensional category theory. He is currently working at Red Hat on the open-source cloud-computing platform OpenStack. When not thinking about computers, he likes to spend his time up mountains",
+        bio: "Miles has bounced between academia and industry, having worked in fields as diverse as satellite communications, tokamak physics, compilers for embedded systems, and higher-dimensional category theory. He is currently working at Red Hat on the open-source cloud-computing platform OpenStack. When not thinking about computers, he likes to spend his time up mountains.",
         company: "Red Hat",
         link: {
           href: "https://twitter.com/pozorvlak",
