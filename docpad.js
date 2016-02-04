@@ -82,21 +82,21 @@ module.exports = {
           time: "18h15"
         }
       },
-//      {
-//        name: "Bob Atkey",
-//        photo: "themes/yellow-swan/img/bobatkey.jpg",
-//        bio: "There is currently an air of mystery about Bob Atkey. We may correct this in time with a full bio.",
-//        company: "University of Strathclyde",
-//        link: {
-//          href: "https://twitter.com/bentnib",
-//          text: "@bentnib"
-//        },
-//        presentation: {
-//          title: "Multi-paradigm programming: are we there yet?",
-//          description: "Do existing languages that combine imperative and functional styles makes things simpler or more complex? Is there a different approach that would give us the best of both worlds?",
- //         time: "19:15"
- //       }
- //     },
+      {
+        name: "Bob Atkey",
+        photo: "themes/yellow-swan/img/bobatkey.jpg",
+        bio: "Bob is an academic with pretensions to usefulness. He is interested in writing down symbols, and then worrying what the symbols mean.",
+        company: "University of Strathclyde",
+        link: {
+          href: "https://twitter.com/bentnib",
+          text: "@bentnib"
+        },
+        presentation: {
+          title: "Multi-paradigm programming: are we there yet?",
+          description: "Do existing languages that combine imperative and functional styles makes things simpler or more complex? Is there a different approach that would give us the best of both worlds?",
+         time: "19:15"
+       }
+      },
       {
         name: "Miles Gould",
         photo: "themes/yellow-swan/img/milesgould.jpg",
@@ -109,7 +109,7 @@ module.exports = {
         presentation: {
           title: "Git: an Epic Victory for Academic Computer Science",
           description: "Programmers all over the world use Git in mission-critical ways, totally unaware of its academic pedigree. Miles will take us through the foundations on which Git is built and ask what other uses we could put them to.",
-          time: "19:15"
+          time: "19:40"
         }
       },
       {
