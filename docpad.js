@@ -79,7 +79,7 @@ module.exports = {
         presentation: {
           title: "Something with ponies",
           description: "We don't yet know exactly what Bodil will be talking about yet but it will almost certainly include ponies",
-          time: "18h15"
+          time: "18:15"
         }
       },
       {
@@ -115,12 +115,12 @@ module.exports = {
       {
         name: "TBC",
         photo: "themes/yellow-swan/img/speaker.jpg",
-        bio: "More speakers to be added soon",
+        bio: "More speakers to be added soon. If you would like to speak our call is still open.",
         company: "?",
         presentation: {
           title: "?",
           description: "?",
-          time: "19:30"
+          time: "00:00"
         }
       },
     ],
