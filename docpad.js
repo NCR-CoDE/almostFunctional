@@ -9,7 +9,7 @@ module.exports = {
     conf: {
       name: "Almost functional",
       description: "Where theory meets practice",
-      date: "April 15",
+      date: "April 14",
       // If your event is free, just comment this line
       //price: "$100",
       venue: "NCR Edinburgh",
