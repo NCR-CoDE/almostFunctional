@@ -104,12 +104,27 @@ module.exports = {
         company: "Red Hat",
         link: {
           href: "https://twitter.com/pozorvlak",
-          text: "pozorvlak"
+          text: "@pozorvlak"
         },
         presentation: {
           title: "Git: an Epic Victory for Academic Computer Science",
           description: "Programmers all over the world use Git in mission-critical ways, totally unaware of its academic pedigree. Miles will take us through the foundations on which Git is built and ask what other uses we could put them to.",
           time: "19:40"
+        }
+      },
+      {
+        name: "Michael Arntzenius",
+        photo: "themes/yellow-swan/img/micheal.jpg",
+        bio: "Michael isn't really sure what he's doing with his life, but it seems to involve staring at glowing screens and making repetitive, precise finger movements.",
+        company: "University of Birmingham",
+        link: {
+          href: "https://twitter.com/arntzenius",
+          text: "@arntzenius"
+        },
+        presentation: {
+          title: "What's a monoid, anyway? or, the algebra of data!",
+          description: "I mean, really, what IS a monoid? It's less complicatedthan it sounds! In just twenty minutes, I'll explain what a monoid is, with examples, and (bonus!) why you should care.",
+          time: "20:10"
         }
       },
       {
