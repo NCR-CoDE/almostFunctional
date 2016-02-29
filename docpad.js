@@ -78,7 +78,7 @@ module.exports = {
         },
         presentation: {
           title: "Something with ponies",
-          description: "We don't yet know exactly what Bodil will be talking about yet but it will almost certainly include ponies",
+          description: "We don't yet know exactly what Bodil will be talking about yet but it will almost certainly include ponies.",
           time: "18:15"
         }
       },
@@ -128,14 +128,18 @@ module.exports = {
         }
       },
       {
-        name: "TBC",
-        photo: "themes/yellow-swan/img/speaker.jpg",
-        bio: "More speakers to be added soon. If you would like to speak our call is still open.",
-        company: "?",
+        name: "Felienne Hermans",
+        photo: "themes/yellow-swan/img/felienne.jpg",
+        bio: "Felienne is assistant professor at Delft University of Technology. In 2013, she defended her PhD thesis ‘Analyzing and Visualizing Spreadsheets’. During her PhD she founded a company called Infotron, which brings her spreadsheet quality analysis tools to the market. One of Felienne’s biggest passions in life is to share enthusiasm for programming with others. She teaches kids LEGO Mindstorms programming every Saturday and is one of the founders of the Joy of Coding conference, a one day developer conference in Rotterdam.",
+        company: "Delft University of Technology",
+        link: {
+          href: "https://twitter.com/@felienne",
+          text: "@felienne"
+        },
         presentation: {
-          title: "?",
-          description: "?",
-          time: "00:00"
+          title: "Program derivation for functional languages",
+          description: "Program derivation was all the rage in the era of Dijkstra, but is it still relevant today in the age of TDD and model checking? Felienne thinks so! In this session she will show you how to systematically derive a program from a specification. You will be surprised to discover that you already know and apply many techniques for derivation.",
+          time: "20:40"
         }
       },
     ],

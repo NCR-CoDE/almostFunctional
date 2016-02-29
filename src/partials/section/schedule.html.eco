@@ -1,6 +1,5 @@
 <h2 class="section-title"><%= @labels['schedule'] %></h2>
 <p>We are still working on our schedule, but it might look something like this.</p>
-<p>If you'd like to speak our <a href="https://gist.github.com/hcoles/f17b2fe18b8d3e01da82">call is still open</a></p>
 <div class="schedule-tbl">
   <table>
     <thead>
