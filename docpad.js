@@ -127,21 +127,6 @@ module.exports = {
           time: "20:10"
         }
       },
-      {
-        name: "Felienne Hermans",
-        photo: "themes/yellow-swan/img/felienne.jpg",
-        bio: "Felienne is assistant professor at Delft University of Technology. In 2013, she defended her PhD thesis ‘Analyzing and Visualizing Spreadsheets’. During her PhD she founded a company called Infotron, which brings her spreadsheet quality analysis tools to the market. One of Felienne’s biggest passions in life is to share enthusiasm for programming with others. She teaches kids LEGO Mindstorms programming every Saturday and is one of the founders of the Joy of Coding conference, a one day developer conference in Rotterdam.",
-        company: "Delft University of Technology",
-        link: {
-          href: "https://twitter.com/@felienne",
-          text: "@felienne"
-        },
-        presentation: {
-          title: "Program derivation for functional languages",
-          description: "Program derivation was all the rage in the era of Dijkstra, but is it still relevant today in the age of TDD and model checking? Felienne thinks so! In this session she will show you how to systematically derive a program from a specification. You will be surprised to discover that you already know and apply many techniques for derivation.",
-          time: "20:40"
-        }
-      },
     ],
 
     // List of Sponsors
