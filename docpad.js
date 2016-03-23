@@ -107,7 +107,7 @@ module.exports = {
           text: "@edwinbrady"
         },
         presentation: {
-          title: "Type Driven Software Verification",
+          title: "TDD - Type Driven Development",
           description: "Software routinely fails. If our phone or laptop crashes, we just mutter expletives and reboot it, but errors in safety or security critical systems can be disastrous. I'll suggest how we might be able to do better, by making effective use of types.",
           time: "19:40"
         }
