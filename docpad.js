@@ -98,17 +98,17 @@ module.exports = {
        }
       },
       {
-        name: "Miles Gould",
-        photo: "themes/yellow-swan/img/milesgould.jpg",
-        bio: "Miles has bounced between academia and industry, having worked in fields as diverse as satellite communications, tokamak physics, compilers for embedded systems, and higher-dimensional category theory. He is currently working at Red Hat on the open-source cloud-computing platform OpenStack. When not thinking about computers, he likes to spend his time up mountains.",
-        company: "Red Hat",
+        name: "Edwin Brady",
+        photo: "themes/yellow-swan/img/edwin-hp.jpg",
+        bio: "Edwin is an academic who likes implementing programming languages, including Whitespace and the less well known dependently typed language Idris. When he's not doing that, he's probably either playing Go, failing to solve a crossword, or stuck on a train.",
+        company: "University of St Andrews",
         link: {
-          href: "https://twitter.com/pozorvlak",
-          text: "@pozorvlak"
+          href: "https://twitter.com/edwinbrady",
+          text: "@edwinbrady"
         },
         presentation: {
-          title: "Git: an Epic Victory for Academic Computer Science",
-          description: "Programmers all over the world use Git in mission-critical ways, totally unaware of its academic pedigree. Miles will take us through the foundations on which Git is built and ask what other uses we could put them to.",
+          title: "Type Driven Software Verification",
+          description: "Software routinely fails. If our phone or laptop crashes, we just mutter expletives and reboot it, but errors in safety or security critical systems can be disastrous. I'll suggest how we might be able to do better, by making effective use of types.",
           time: "19:40"
         }
       },
@@ -124,7 +124,7 @@ module.exports = {
         presentation: {
           title: "What's a monoid, anyway? or, the algebra of data!",
           description: "I mean, really, what IS a monoid? It's less complicatedthan it sounds! In just twenty minutes, I'll explain what a monoid is, with examples, and (bonus!) why you should care.",
-          time: "20:10"
+          time: "20:20"
         }
       },
     ],
