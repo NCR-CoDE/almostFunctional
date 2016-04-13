@@ -67,22 +67,22 @@ module.exports = {
         name: "Arrive and mingle",
         time: "1800"
       },
-      {
-        name: "Bodil Stokke",
-        photo: "themes/yellow-swan/img/bodil.jpeg",
-        bio: "Bodil was a controversial figure during her lifetime, championed by supporters as an enlightened guru and derided as a fraudulent charlatan by critics. Her doctrines influenced the spread of Homotopy Type Theory in the West as well as the development of Western computer science currents like dependent types, blockchains and isomorphic JavaScript.",
-        company: "Church of emacs",
+      { // 45
+        name: "Edwin Brady",
+        photo: "themes/yellow-swan/img/edwin-hp.jpg",
+        bio: "Edwin is an academic who likes implementing programming languages, including Whitespace and the less well known dependently typed language Idris. When he's not doing that, he's probably either playing Go, failing to solve a crossword, or stuck on a train.",
+        company: "University of St Andrews",
         link: {
-          href: "https://twitter.com/bodil",
-          text: "@bodil"
+          href: "https://twitter.com/edwinbrady",
+          text: "@edwinbrady"
         },
         presentation: {
-          title: "Something with ponies",
-          description: "We don't yet know exactly what Bodil will be talking about yet but it will almost certainly include ponies.",
+          title: "TDD - Type Driven Development",
+          description: "Software routinely fails. If our phone or laptop crashes, we just mutter expletives and reboot it, but errors in safety or security critical systems can be disastrous. I'll suggest how we might be able to do better, by making effective use of types.",
           time: "18:15"
         }
       },
-      {
+      { // 15
         name: "Bob Atkey",
         photo: "themes/yellow-swan/img/bobatkey.jpg",
         bio: "Bob is an academic with pretensions to usefulness. He is interested in writing down symbols, and then worrying what the symbols mean.",
@@ -97,22 +97,7 @@ module.exports = {
          time: "19:15"
        }
       },
-      {
-        name: "Edwin Brady",
-        photo: "themes/yellow-swan/img/edwin-hp.jpg",
-        bio: "Edwin is an academic who likes implementing programming languages, including Whitespace and the less well known dependently typed language Idris. When he's not doing that, he's probably either playing Go, failing to solve a crossword, or stuck on a train.",
-        company: "University of St Andrews",
-        link: {
-          href: "https://twitter.com/edwinbrady",
-          text: "@edwinbrady"
-        },
-        presentation: {
-          title: "TDD - Type Driven Development",
-          description: "Software routinely fails. If our phone or laptop crashes, we just mutter expletives and reboot it, but errors in safety or security critical systems can be disastrous. I'll suggest how we might be able to do better, by making effective use of types.",
-          time: "19:40"
-        }
-      },
-      {
+      { // 20
         name: "Michael Arntzenius",
         photo: "themes/yellow-swan/img/micheal.jpg",
         bio: "Michael isn't really sure what he's doing with his life, but it seems to involve staring at glowing screens and making repetitive, precise finger movements.",
@@ -124,7 +109,22 @@ module.exports = {
         presentation: {
           title: "What's a monoid, anyway? or, the algebra of data!",
           description: "I mean, really, what IS a monoid? It's less complicatedthan it sounds! In just twenty minutes, I'll explain what a monoid is, with examples, and (bonus!) why you should care.",
-          time: "20:20"
+          time: "19:40"
+        }
+      },
+      {
+        name: "Maurice Naftalin",
+        photo: "themes/yellow-swan/img/maurice.jpg",
+        bio: "Maurice has three decades of experience as a programmer, academic and trainer. He wrote the Java Generics book with Philip Wadler and Mastering Lambdas for Oracle Press.",
+        company: "Morningside Light Ltd",
+        link: {
+          href: "https://twitter.com/mauricenaftalin",
+          text: "@mauricenaftalin"
+        },
+        presentation: {
+          title: "To be confirmed",
+          description: "TBC",
+          time: "20:10"
         }
       },
     ],
